@@ -1,7 +1,7 @@
-"""Constants for avanza_stock."""
+"""Constants for yahoo_stock."""
 __version__ = "1.0.9"
 
-DEFAULT_NAME = "Avanza Stock"
+DEFAULT_NAME = "Yahoo Stock"
 
 CONF_STOCK = "stock"
 CONF_SHARES = "shares"
